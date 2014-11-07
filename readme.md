@@ -22,3 +22,5 @@ git branch and master
 
 Git has a mutable index called stage.
 
+Git tracks changes.
+
