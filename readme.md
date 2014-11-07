@@ -18,4 +18,7 @@ test learning git
 
 pratice again!
 
+git branch and master
+
+Git has a mutable index called stage.
 
