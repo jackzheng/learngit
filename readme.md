@@ -14,6 +14,8 @@
 1. 后台测试 bug修改
 2. 前台展示页面开发
 
+我会git啦 太棒了！！！！
+
 test learning git
 
 pratice again!
